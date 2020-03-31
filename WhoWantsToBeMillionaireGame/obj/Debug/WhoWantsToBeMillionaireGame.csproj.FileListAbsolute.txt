@@ -1,0 +1,7 @@
+C:\Users\USER\source\repos\WhoWantsToBeMillionaireGame\WhoWantsToBeMillionaireGame\obj\Debug\WhoWantsToBeMillionaireGame.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\WhoWantsToBeMillionaireGame\WhoWantsToBeMillionaireGame\obj\Debug\WhoWantsToBeMillionaireGame.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\WhoWantsToBeMillionaireGame\WhoWantsToBeMillionaireGame\bin\Debug\WhoWantsToBeMillionaireGame.exe.config
+C:\Users\USER\source\repos\WhoWantsToBeMillionaireGame\WhoWantsToBeMillionaireGame\bin\Debug\WhoWantsToBeMillionaireGame.exe
+C:\Users\USER\source\repos\WhoWantsToBeMillionaireGame\WhoWantsToBeMillionaireGame\bin\Debug\WhoWantsToBeMillionaireGame.pdb
+C:\Users\USER\source\repos\WhoWantsToBeMillionaireGame\WhoWantsToBeMillionaireGame\obj\Debug\WhoWantsToBeMillionaireGame.exe
+C:\Users\USER\source\repos\WhoWantsToBeMillionaireGame\WhoWantsToBeMillionaireGame\obj\Debug\WhoWantsToBeMillionaireGame.pdb
