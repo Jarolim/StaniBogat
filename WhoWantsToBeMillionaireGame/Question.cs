@@ -16,7 +16,6 @@ namespace WhoWantsToBeMillionaireGame
             this.questionsToPrint = new Dictionary<char, KeyValuePair<char, string>>();
         }
 
-
         public int Difficulty { get; set; }
 
         public string Author { get; set; }
@@ -27,8 +26,7 @@ namespace WhoWantsToBeMillionaireGame
 
         public string AnswerRight { get; set; }
 
-        public List<string> AnswersWrong { get; set; }
-               
+        public List<string> AnswersWrong { get; set; }               
 
         public void SetQuestionToPresent()
         {

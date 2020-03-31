@@ -9,7 +9,7 @@ namespace WhoWantsToBeMillionaireGame
     {
         static void Main(string[] args)
         {
-            //GET DATABASE FROM FILE
+            //GET OBJECT_QUESTION_DATABASE FROM FILE.READALLLINES
 
             Console.InputEncoding = Console.OutputEncoding = Encoding.Unicode;
 
@@ -63,7 +63,7 @@ namespace WhoWantsToBeMillionaireGame
                         case 7:
                             myQuestion.Author = inputLine.Remove(0, 1);
                             break;
-                    } // SET PROPERTIES OF QUESTION
+                    } // SET ALL PROPERTIES OF QUESTION
                 }
 
                 myQuestion.SetQuestionToPresent();
